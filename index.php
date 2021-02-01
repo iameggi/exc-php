@@ -8,7 +8,8 @@
 * Silahkan dioprak aprik
 */
 
-
+//Load data from public
 header('Location: public/');
 
+//End script
 die();
